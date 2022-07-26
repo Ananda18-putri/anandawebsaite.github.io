@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+.bn-btn {
+  width: 10%;
+  background-color: white;
+  border-radius: 14px;
+  margin-bottom: 11px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.bn-btn:hover {
+  background-color: coral;
+  color: white;
+  transition: 1s;
+}
